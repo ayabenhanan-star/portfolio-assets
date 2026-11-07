@@ -6,7 +6,7 @@
       "slug": "biu-racing",
       "type": "Platform",
       "title": "BIU Racing Knowledge Hub",
-      "description": "The team's operating system: shared task boards, an automated procurement flow, a live race readiness score, and a private board for every member.",
+      "description": "The team's operating system shared task boards, an automated procurement flow, a live race-readiness score, and a private board for every member.",
       "tags": [
         "Lovable",
         "Supabase",
@@ -15,8 +15,8 @@
         "Dashboards"
       ],
       "status": "Featured project",
-      "overview": "One workspace where BIU Racing, Bar Ilan's Formula Student team, plans its work, orders parts, and tracks how close the car is to competition.",
-      "challenge": "BIU Racing started without any information system. As the project was founded, the team needed one shared place to manage its tasks and communication.",
+      "overview": "One workspace where BIU Racing, Bar-Ilan's Formula Student team, plans its work, orders parts, and tracks how close the car is to competition.",
+      "challenge": "BIU-Racing started without any information system. As the project was founded, the team needed one shared place to manage its tasks and communication.",
       "solution": "A shared dashboard for every team's tasks, a procurement flow that carries each request from submission through sponsor check and approval to order. Notifying people and emailing suppliers automatically,and a private My Board for each member.",
       "outcome": "One source of truth for the whole team, purchases that no longer get lost, and a live readiness score calculated from real milestones, tasks, and orders.",
       "imageKey": "biu-racing",
@@ -53,7 +53,7 @@
       "slug": "the-orchard",
       "type": "Platform",
       "title": "The Orchard",
-      "description": "A digital classroom workspace for private English tutors. Manage student groups, share lesson files, videos, slides and PDFs, and add interactive learning activities.",
+      "description": "A digital classroom workspace for private English tutors — manage student groups, share lesson files, videos, slides and PDFs, and add interactive learning activities.",
       "tags": [
         "EdTech",
         "File Sharing",
@@ -63,7 +63,7 @@
       "status": "Featured project",
       "overview": "The Orchard is a focused digital classroom for private English tutors and their students. Each learning group receives a private, organized space that is simple to revisit between lessons.",
       "challenge": "Tutors often distribute resources across chat threads, drives, and presentation tools. Students lose context, while tutors repeat administrative work for every cohort.",
-      "solution": "I created a cohort based workspace for lesson files, videos, slides, PDFs, learning activities, and games, with a private link for each student group.",
+      "solution": "I created a cohort-based workspace for lesson files, videos, slides, PDFs, learning activities, and games, with a private link for each student group.",
       "outcome": "The platform makes learning material easier to access and gives tutors one calm, reusable home for every class.",
       "imageKey": "orchard"
     },
@@ -72,7 +72,7 @@
       "slug": "course-selection",
       "type": "Decision Support System",
       "title": "Course & Track Selection",
-      "description": "A student focused decision support system that brings scattered course information into one clear, comparable view.",
+      "description": "A student-focused decision support system that brings scattered course information into one clear, comparable view.",
       "tags": [
         "Python",
         "Streamlit",
@@ -82,7 +82,7 @@
       "status": "Working prototype",
       "overview": "A lightweight tool that helps students choose an academic track and elective courses with confidence. It centralizes information from multiple sources and makes courses easy to browse, inspect, and compare.",
       "challenge": "The information students need is spread across many university pages and documents. Comparing courses means repeatedly searching for details such as track, assessment method, grading structure, prerequisites, and syllabus links.",
-      "solution": "I built a Python application on Streamlit that reads from an updatable tabular data source. A clear course grid and detailed course view surface the relevant criteria in one place, while keeping the underlying content simple to maintain and change.",
+      "solution": "I built a Python-based application on Streamlit that reads from an updatable tabular data source. A clear course grid and detailed course view surface the relevant criteria in one place, while keeping the underlying content simple to maintain and change.",
       "outcome": "The system turns a fragmented research process into a focused decision flow. Students can compare options more efficiently, and administrators can keep the experience current by updating a single structured data file.",
       "imageKey": "course-selection"
     },
@@ -91,7 +91,7 @@
       "slug": "jumping-wonder-realm",
       "type": "Interactive Learning Game",
       "title": "Jumping Wonder Realm",
-      "description": "An animated fantasy learning game created during a student hackathon with Base44, combining narrative quests, educational challenges, rewards, and character progression.",
+      "description": "An animated fantasy learning game created during a student hackathon with Base44 — combining narrative quests, educational challenges, rewards, and character progression.",
       "tags": [
         "Base44",
         "Hackathon",
@@ -101,9 +101,9 @@
       ],
       "status": "Live hackathon project",
       "overview": "Jumping Wonder Realm turns learning into a fantasy adventure. Players choose a companion, travel between themed realms, answer educational challenges, and unlock rewards as they progress.",
-      "challenge": "The hackathon challenge was to make learning content feel genuinely interactive rather than simply placing questions inside a game shaped interface. The experience needed to motivate exploration, support continued play, and keep the learning moment at the center.",
+      "challenge": "The hackathon challenge was to make learning content feel genuinely interactive rather than simply placing questions inside a game-shaped interface. The experience needed to motivate exploration, support continued play, and keep the learning moment at the center.",
       "solution": "I created a narrative led game with animated environments, companion selection, themed learning realms, story based questions, a reward economy, and an inventory system. Every interaction contributes to a clear sense of movement and discovery.",
-      "outcome": "The result is a playful, highly visual learning experience that combines education with progression mechanics. It demonstrates how AI native building can rapidly turn an ambitious concept into a polished, interactive product.",
+      "outcome": "The result is a playful, highly visual learning experience that combines education with progression mechanics. It demonstrates how AI-native building can rapidly turn an ambitious concept into a polished, interactive product.",
       "imageKey": "wonder-realm",
       "url": "https://jumping-wonder-realm.base44.app"
     }
